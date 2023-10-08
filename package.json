@@ -1,4 +1,5 @@
 {
+  "homepage": "https://chidamabarsk13.github.io/React-Portals---Contest-08-10-23---y64mozb2k69r",
   "name": "react-boilerplate",
   "version": "1.0.0",
   "description": "",
@@ -12,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^6.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
